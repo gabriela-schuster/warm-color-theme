@@ -1,0 +1,22 @@
+{
+    "name": "warm",
+    "displayName": "warm",
+    "description": "a warm color schem to take care of your eyes",
+	"publisher": "indigo",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "warm",
+                "uiTheme": "vs-dark",
+                "path": "./themes/warm-color-theme.json"
+            }
+        ]
+    }
+}
