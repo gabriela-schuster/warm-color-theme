@@ -7,9 +7,22 @@
     "engines": {
         "vscode": "^1.66.0"
     },
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gabriela-tomazzi/warm-color-theme"
+	},
     "categories": [
         "Themes"
     ],
+	"keywords": [
+		"theme",
+		"easy",
+		"eyes",
+		"blue",
+		"brown",
+		"orange",
+		"dark"
+	],
     "contributes": {
         "themes": [
             {
